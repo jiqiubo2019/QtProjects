@@ -1,0 +1,53 @@
+.gitignore
+
+
+# Prerequisites
+*.d
+
+# Compiled Object files; project files
+*.slo
+*.lo
+*.o
+*.obj
+*.map
+*.db
+*.opendb
+*.user
+*.vs
+.opendb
+*.tlog
+*.idb
+*.pdb
+*.aps
+*.ilk
+*.exp
+Debug
+ipch
+Release
+
+# self create folder/files
+*.rar
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
